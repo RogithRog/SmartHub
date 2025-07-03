@@ -9,6 +9,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 public class SecureDocumentApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SecureDocumentApplication.class, args);
 	}
 
